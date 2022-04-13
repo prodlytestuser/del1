@@ -1,1 +1,2 @@
 "Guid","Name","SBQQ__Active__c","SBQQ__AdvancedCondition__c","SBQQ__ConditionsMet__c","SBQQ__ConfiguratorEvaluationEvent__c","SBQQ__EvaluationEvent__c","SBQQ__EvaluationOrder__c","SBQQ__LookupObject__c","SBQQ__TargetObject__c"
+0187cf84-72d7-467d-b8a1-7d6ad7ab5787,Price rule 1,false,"#N/A",Any,Save,On Calculate,"#N/A","#N/A",Calculator
